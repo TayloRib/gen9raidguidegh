@@ -474,6 +474,7 @@ td.pokename {
   
     #main-mobile {
       position: relative;
+      font-family: "calibri", Arial, sans-serif;
       max-width: 100%;
       margin-top: 0px;
       margin-right: 1%;
